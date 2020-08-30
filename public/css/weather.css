@@ -1,0 +1,17 @@
+.spinner-container{
+    text-align: center;
+    display: none;
+}
+
+.tab-pane{
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 20px;
+    color: #6060bb;
+}
+
+.check-container span{
+    background-color: green;
+}
