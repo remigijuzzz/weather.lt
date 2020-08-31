@@ -1,5 +1,3 @@
-<button type="button" class="btn btn-primary">Primary</button>
-
 @extends('layouts.standard')
 @section('title', 'Weather info')
 @section('form')
