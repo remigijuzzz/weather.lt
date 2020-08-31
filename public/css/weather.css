@@ -13,5 +13,10 @@
 }
 
 .check-container span{
-    background-color: green;
+    background-color: #12b112;
+    cursor: pointer;
+}
+
+form{
+    margin-top: 100px;
 }
